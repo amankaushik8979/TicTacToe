@@ -1,0 +1,1 @@
+A basic Tic Tac Toe game where the user interface is developed using HTML and CSS and entire logic is built using JavaScript.
